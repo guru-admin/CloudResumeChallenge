@@ -1,0 +1,53 @@
+#Heading{
+    font-size: 20pt;
+    text-align: center;
+    color:slateblue;
+    font-weight: bold;
+}
+#HeadingFooter{
+    text-align: center;
+    font-weight:100;
+}
+.SecondHeading{
+    font-size: 15pt;
+    text-align: center;
+    color: slateblue;
+    font-weight: bold;
+}
+.para{
+    text-align:left;
+    font-size: 12pt;
+}
+.ChildPara{
+    text-align:left;
+    font-size: 10pt;
+    text-indent: 2em;
+}
+.ListHeading{
+    text-align:left;
+    font-size: 11pt;
+}
+.periodalignment{
+    position:absolute;
+    left:1750px;
+}
+.Highlight{
+    height: 3em;
+    font-weight:600;
+    background-color: lightgrey;
+    color: black;
+}
+#link{
+    text-align: center;
+}
+#img{
+    width: 1800px;
+    height: 400px;
+}
+* {
+    max-width: 1820px;
+    margin: auto;
+  }
+  div {
+    border-radius: 10px;
+  }
